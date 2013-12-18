@@ -7,5 +7,5 @@ Leader == Kristine Rubio
 
 Members:
         John Patrick Dela Cerna, 
-        Mary May Sestoso, 
+        Mary May Sestoso, (Shanz)
         Gracelyn Inocando
